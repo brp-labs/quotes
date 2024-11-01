@@ -22,9 +22,10 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# notes, temporary files and others
+# notes, temporary files and more
 NOTES.txt
 temp.*
+/public/about.txt
 
 # Debug React App
 launch.json
