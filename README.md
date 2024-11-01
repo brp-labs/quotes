@@ -5,7 +5,7 @@
 <b>Technologies:</b> React, JavaScript, HTML, CSS<br/>
 <b>GitHub Repository:</b> https://github.com/brp-labs/quotes<br/>
 
-The random quotes are sourced from <b>https://github.com/well300/quotes-api</b> using this endpoint: https://quotes-api-self.vercel.app/quote.
+The random quotes are sourced from https://github.com/well300/quotes-api using this endpoint: https://quotes-api-self.vercel.app/quote.
 
 <hr/>
 
