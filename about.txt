@@ -3,4 +3,4 @@ This favicon was generated using the following font:
 - Font Title: BIZ UDGothic
 - Font Author: undefined
 - Font Source: https://fonts.gstatic.com/s/bizudgothic/v12/daafSTouBF7RUjnbt8p3LuKttQN98z_MbQ.ttf
-- Font License: undefined)
+- Font License: (undefined)
