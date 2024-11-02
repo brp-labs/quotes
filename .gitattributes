@@ -1,1 +1,2 @@
-*.gitignore text eol=lf
+# git *.gitignore text eol=lf
+* text=auto

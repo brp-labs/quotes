@@ -24,7 +24,7 @@ yarn-error.log*
 
 # notes, temporary files and more
 NOTES.txt
-temp.*
+*temp.*
 /public/about.txt
 
 # Debug React Appgit 
