@@ -25,6 +25,10 @@ function App() {
     }
   };
 
+  if (quote === "") {
+    return <div className="quote">Loading quote...</div>;
+  }
+
   return (
     <div>
       <div className="quote">
@@ -33,7 +37,7 @@ function App() {
             &ldquo;
           </span>  
         </span>
-        {quote}
+          {quote}
       </div>
       <div className="author">
           &mdash; {author}
@@ -44,3 +48,28 @@ function App() {
 }
 
 export default App;
+
+
+// function myApp() {
+
+//   const [q, setQ] = useState("");
+  
+//   useEffect(() => {
+//     getQ();
+//   }, []);
+
+//   const getQ = async () => {
+//     const url = "mydatasite.com"
+//     const response = await fetch(url);
+//     const data = await response.json();
+//     setQ(data);
+//   }
+
+//   return (
+//     <>
+//     <h1>My data is:</h1>
+//     <p>The folowing data explains bla bla bla</p>
+//     <p>{q}</p>
+//     </>
+//   )
+// }
